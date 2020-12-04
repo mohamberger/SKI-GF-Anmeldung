@@ -1,0 +1,15 @@
+$primary: #01367c;
+
+@import "../node_modules/bootstrap/scss/bootstrap";
+
+.bg-cover{
+    background-size: cover !important;
+}
+
+.bg-center{
+    background-position: center !important;
+}
+
+.border-4{
+    border-width: 4px !important;
+}

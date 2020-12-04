@@ -1,0 +1,14 @@
+{
+  "name": "ski-gf-kursbuchung",
+  "version": "1.0.0",
+  "description": "Online registration frame for the form of skischullogistik",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moritz Hamberger",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.3"
+  }
+}
